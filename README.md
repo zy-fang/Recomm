@@ -10,4 +10,4 @@
 [浅梦的学习笔记](https://github.com/shenweichen)
 ## 4、思考
 ### 召回
-!(https://github.com/zy-fang/Recomm/blob/main/File/recall.png)
+![召回](https://github.com/zy-fang/Recomm/blob/main/File/recall.png)
