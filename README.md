@@ -11,3 +11,4 @@
 ## 4、思考
 ### 召回
 ![召回](https://github.com/zy-fang/Recomm/blob/main/File/recall.png)
+![推荐算法找工作](https://github.com/zy-fang/Recomm/blob/main/File/Work.md)
