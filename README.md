@@ -9,7 +9,6 @@
 ## 3、代码
 [浅梦的学习笔记](https://github.com/shenweichen)
 ## 4、思考
+### [推荐算法找工作](https://github.com/zy-fang/Recomm/blob/main/File/Work.md)
 ### 召回
 ![召回](https://github.com/zy-fang/Recomm/blob/main/File/recall.png)
-
-[推荐算法找工作](https://github.com/zy-fang/Recomm/blob/main/File/Work.md)
