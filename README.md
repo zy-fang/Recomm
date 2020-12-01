@@ -6,7 +6,7 @@
 
 ## 2、论文
 [Paper](https://github.com/zy-fang/Recomm/Paper)<br>
-[召回](https://github.com/zy-fang/Recomm/blob/main/File/paper.png)
+![Paper](https://github.com/zy-fang/Recomm/blob/main/File/paper.png)
 ## 3、代码
 [浅梦的学习笔记](https://github.com/shenweichen)
 ## 4、思考
